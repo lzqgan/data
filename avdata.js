@@ -1,7 +1,6 @@
 // avdata.js
 window.__actressData = [
   "MIDV-041",
-  "SSIS-698",
   {
     "永野いち夏": [
       "SQTE-401",
@@ -570,6 +569,11 @@ window.__actressData = [
   {
     "涼森れむ": [
       "ABP-984"
+    ]
+  },
+  {
+    "楓ふうあ": [
+      "SONE-308"
     ]
   },
   {
