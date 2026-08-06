@@ -573,7 +573,8 @@ window.__actressData = [
   },
   {
     "楓ふうあ": [
-      "SONE-308"
+      "SONE-308",
+      "IPX-811"
     ]
   },
   {
