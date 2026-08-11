@@ -9,6 +9,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "categories": [
+        "亚洲情色",
         "国产剧",
         "港台剧",
         "日韩剧",
@@ -21,10 +22,13 @@
       "key": "ddd",
       "name": "⭐️jkun",
       "type": 0,
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "api": "https://jkunzyapi.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 0,
+      "categories": [
+        "中文字幕"
+      ]
     }
   ],
   "lives": [
